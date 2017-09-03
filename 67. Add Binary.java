@@ -1,4 +1,7 @@
 /*
+
+remember to reverse the result!!
+
 O(n) n is max length of a and b
 */
 
